@@ -12,10 +12,10 @@ Data being used can be found here - https://www.kaggle.com/c/demand-forecasting-
 Its a clean dataset representing the sales of 50 items across 10 stores for a period of 5 years. 
 
 ## Tasks
-. The primary aim of the model is to use the given data to predict the item demand in the 10 stores for a period of 3 months.
-. Visualizing the confidence in our predictions against Mean Absolute Error, Mean Squared Error, etc.
-. Detect and flag the anomalies in sales.
-. Use ETL, SARIMA, Linear Regression, XGBoost, and LSTM to make learn the temporal patterns of our time series, and perform a   relative analysis of all the algorithms.
+The primary aim of the model is to use the given data to predict the item demand in the 10 stores for a period of 3 months.
+Visualizing the confidence in our predictions against Mean Absolute Error, Mean Squared Error, etc.
+Detect and flag the anomalies in sales.
+Use ETL, SARIMA, Linear Regression, XGBoost, and LSTM to make learn the temporal patterns of our time series, and perform a   relative analysis of all the algorithms.
 
 ## Code Structure
 
